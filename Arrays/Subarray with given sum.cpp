@@ -27,8 +27,8 @@
     Explanation: The sum of elements from 1st position to 5th position is 15.
 
     Constraints:
-    1 <= N <= 105
-    1 <= A[i] <= 1010
+    1 <= N <= 10^5
+    1 <= A[i] <= 10^10
 
     Expected Time Complexity: O(N)
     Expected Auxiliary Space: O(1)
